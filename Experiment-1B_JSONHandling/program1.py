@@ -2,7 +2,7 @@ import pandas as pd
 
 student_data = {
     "Roll_No": [101, 102, 103, 104],
-    "Name": ["Anusha", "Babitha", "Charitha", "Deepika"],
+    "Name": ["hema", "lahari", "ramya", "ammu"],
     "Department": ["IT", "IT", "CSE", "ECE"],
     "Marks": [89, 92, 88, 95]
 }

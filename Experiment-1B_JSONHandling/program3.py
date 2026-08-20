@@ -5,17 +5,17 @@ json_data = """
 [
     {
         "Roll_No": 101,
-        "Name": "Anusha",
+        "Name": "hema",
         "Marks": 89
     },
     {
         "Roll_No": 102,
-        "Name": "Babitha",
+        "Name": "lahari",
         "Marks": 92
     },
     {
         "Roll_No": 103,
-        "Name": "Charitha",
+        "Name": "ramya",
         "Marks": 88
     }
 ]
